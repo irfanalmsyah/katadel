@@ -1,5 +1,5 @@
 # Katadel
-Katadel adalah versi Indonesia dari *wordle*
+Katadel adalah versi Indonesia dari *wordle*, dibuat menggunakan python
 
 ## How to run
 *Download* dan jalankan [*executable binary*nya](https://github.com/irfanalmsyah/katadel/releases/download/0.1/katadel.exe)
